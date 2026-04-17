@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+gunicorn
+google-generativeai
+duckduckgo-search
+python-dotenv
