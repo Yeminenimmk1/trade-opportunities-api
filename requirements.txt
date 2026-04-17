@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
 gunicorn
-google-generativeai
+google-genai
 duckduckgo-search
 python-dotenv
